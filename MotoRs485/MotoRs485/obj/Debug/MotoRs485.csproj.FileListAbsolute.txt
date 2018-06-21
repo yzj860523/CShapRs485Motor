@@ -1,0 +1,9 @@
+C:\Users\Cary\Desktop\MotoRs485\MotoRs485\obj\Debug\MotoRs485.MainForm.resources
+C:\Users\Cary\Desktop\MotoRs485\MotoRs485\obj\Debug\MotoRs485.Properties.Resources.resources
+C:\Users\Cary\Desktop\MotoRs485\MotoRs485\obj\Debug\MotoRs485.csproj.GenerateResource.cache
+C:\Users\Cary\Desktop\MotoRs485\MotoRs485\obj\Debug\MotoRs485.csproj.CoreCompileInputs.cache
+C:\Users\Cary\Desktop\MotoRs485\MotoRs485\bin\Debug\MotoRs485.exe
+C:\Users\Cary\Desktop\MotoRs485\MotoRs485\bin\Debug\MotoRs485.pdb
+C:\Users\Cary\Desktop\MotoRs485\MotoRs485\obj\Debug\MotoRs485.exe
+C:\Users\Cary\Desktop\MotoRs485\MotoRs485\obj\Debug\MotoRs485.pdb
+C:\Users\Cary\Desktop\MotoRs485\MotoRs485\obj\Debug\MotoRs485.UISpace.MotorControl.resources
